@@ -19,6 +19,7 @@
 
 # 公司
 [谷歌](company/google.md) 
+[七牛云](company/qiniu.md)
 [字节跳动](company/bytedance.md) 
 [滴滴](company/didiglobal.md)
 [b站](company/bilibili.md)
