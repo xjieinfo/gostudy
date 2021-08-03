@@ -37,6 +37,7 @@
 
 # 牛人
 [许式伟](person/xushiwei.md)
+[谢孟军](person/xiemengjun.md)
 [万俊峰](person/wanjunfeng.md)
 
 
