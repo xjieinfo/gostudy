@@ -39,6 +39,7 @@
 [kratos](https://github.com/go-kratos/kratos)  
 [micro](https://github.com/micro/micro)  
 [go-zero](https://github.com/tal-tech/go-zero)  
+[rpcx](https://github.com/smallnest/rpcx)  
 [dubbo-go](https://github.com/apache/dubbo-go)  
 [jupiter](https://github.com/douyu/jupiter)  
 [TarsGo](https://github.com/TarsCloud/TarsGo)  

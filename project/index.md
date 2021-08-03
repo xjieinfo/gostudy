@@ -23,6 +23,7 @@
 [kratos](https://github.com/go-kratos/kratos) 14.2k  
 [micro](https://github.com/micro/micro) 10.3k  
 [go-zero](https://github.com/tal-tech/go-zero) 10.1k  
+[rpcx](https://github.com/smallnest/rpcx) 5.8k  
 [goa](https://github.com/goadesign/goa) 4.3k  
 [gizmo](https://github.com/nytimes/gizmo) 3.5k  
 [dubbo-go](https://github.com/apache/dubbo-go) 3.4k  
