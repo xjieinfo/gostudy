@@ -36,7 +36,7 @@
 [问题收集](question/index.md)
 
 # 牛人
-[许式伟](person/xusiwei.md)
+[许式伟](person/xushiwei.md)
 [万俊峰](person/wanjunfeng.md)
 
 
