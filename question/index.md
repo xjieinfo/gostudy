@@ -9,9 +9,10 @@ map声明后需要用make初始化才能使用，否则报异常，而slice不�
 方法三：用int表示状态时，可以在设计的时候规定不使用0值，即从1开始表示具体的状态值。避免0和nil的歧义。
    
 3. 微信支付如何实现？  
-参考库：https://github.com/objcoding/wxpay  
+参考库：
+   https://github.com/wechatpay-apiv3/wechatpay-go(官方)  
+   https://github.com/objcoding/wxpay  
 https://github.com/smartwalle/wxpay  
-   https://github.com/wleven/wxpay  
    https://github.com/wleven/wxpay  
    
 4. 支付宝支付如何实现？  
